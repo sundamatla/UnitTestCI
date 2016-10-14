@@ -1,0 +1,11 @@
+{
+  "name": "unittestci",
+  "version": "1.0.0",
+  "description": "Unit tests with continous integration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satya Undamatla",
+  "license": "ISC"
+}
